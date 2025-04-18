@@ -62,7 +62,7 @@ It showcases how NFC technology can be integrated with microcontrollers to devel
 
 ## 📷 Screenshots
 
-_Add images or wiring diagrams here (optional)_
+![Image](https://github.com/user-attachments/assets/8cc2393a-d34e-47d8-b8e2-918c712a9cd8)
 
 ---
 
